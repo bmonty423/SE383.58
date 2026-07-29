@@ -29,3 +29,16 @@ Owen Pimentel
 3. how visibility reduced collaboration risk
 - Visibility reduces risk by ensuring accountability. If you can see the content of edits and who made said edits, then you can find who keeps breaking things. 
 ---------------------------------------------------------------------------------------------
+# Jacob Platt
+## DevOps Week 2 In-Class
+
+Version control acts as a system of record by time stamping and labeling the authors
+of commits within a repository
+
+Meaningful commit messages allow future reviewers to understand the context and situation
+that prompted the change
+
+Visibility reduces the likelyhood of collaboration risk because more eyes are able to review code
+changes before it is submitted to the main branch, This also allows people to work offline and locally,
+stashing local changes can avoid merge conflicts.
+
