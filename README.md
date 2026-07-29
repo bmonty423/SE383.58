@@ -16,6 +16,8 @@ Visibility reduces collaboration risk because clear communication between team m
 
 Add your assignments here!
 
+Jose - Version control acts as a system of record by first showing how many commits there are, which file was changed, and who the contributor is. It also shows what the commit message was titled, as well as a brief description from who made the commit and when it was committed. An Id is also attached the commit and you are able to see what the file was previously and then what was added with the commit. Meaningful commit messages matter because you want to make it clear what you are changing, especially for documentation purposes. This also helps in DevOps if you want to look for previous commits, you can search key words that will lead to the commit. It also helps with peer review, so they are aware of what you intended to change and make sure your code does just that. Visibility reduces collaboration risk by giving your entire team visibility to code changes: commits, pull requests, etc. Changes can be tracked and reviewed. Version control helps make collaboration more efficient.
+
 #Bryan Duffy:
 
 Version control acts as a system of record by keeping the different changes and additions organized by when it happened and why. This is to keep an understanding of past work to not cause confusion later on. Meaningful commit messages matter because it lets whoever is looking through the changes know what was changed and why instead of going into the version and searching through the code for the change. Visibilty reduces collaboration risk by giving partners knowledge of changes made.
