@@ -2,3 +2,23 @@ Bryan
     Branching reduces collaboration risk because if there is an error on one branch it will not affect any of the other teams' code causing errors on their end. The error will be isolated to one side while other projects will have their own errors if there. Integration changes responsibility by giving all members involved equally responsible. Any changes will show up and possibly conflict with the other parts involved in the integration possibly causing different errors or solutions. Automation relies on structure because otherwise the risk will increase and not run on approved changes. Automation can also trace possible outcomes back to decisions made.
 Brandon
 Owen
+#Brandon
+    why branching reduced collaboration risk
+        Branchs allow users to work indepently and chose what to share and merge. This allows multiplie workflows
+        and experimental workflows to occuer at the same time without effecting the main code. It allows changes
+        to be intergrated when ready. 
+    how integration changed responsibility
+        Indivual work becomes group responsibility. Changes are now visable to other users as well and they can see all 
+        updates to the code. And this allows users to trace errors or outcomes back to their source if issues arise. 
+    why automation would rely on this structure
+        Automation releys on clear structure and system states to run properally. Automation needs systems like these
+        in place to create a more streamlined pipeline. 
+----------------------------------------------------
+Week 3 in class activity - Owen Pimentel
+
+1. branches reduce collaboration risk by isolating unstable code from being pushed to production. untested code can be kept in a dev branch until it is unit tested, where it can then be pushed to another branch to be peer reviewed and then merged into the main branch.
+
+2.  integration changes responsibly from an individual  to the whole team. Everyone is responsible for ensuring that code is tested and consistent with standards before being pushed to production
+
+3. automation relies on order and patterns to function. If there is no workflow or procedure for it to follow, it wont be able to produce results. 
+-----------------------------------------------------
