@@ -1,3 +1,11 @@
 Justyn
 Cooper
 Jose Vargas
+
+Cooper Graves
+1) why branching reduced collaboration risk
+    Individual branches allow for changes to remain compartmentalized, which can help to determine the order and method of pull request merging
+2) how integration changed responsibility
+    The responsibility is now spread between the creator of the branch and the reviewer
+3) why automation would rely on this structure
+    Automation could work based on a set order of changes and allow those changes to be merged in a way that mitigates risk of merge conflicts
