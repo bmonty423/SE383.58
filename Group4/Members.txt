@@ -1,3 +1,12 @@
 Cory
+-why branching reduced collaboration risk
+Branching reduces collaboration risk because it allows team members work on files without their work causing issues of each other. 
+
+-how integration changed responsibility
+Integration changes responsibility because everyone is responsibly for their own files but the main file they merge into main it is the responsibility of the main directory owner. 
+
+-why automation would rely on this structure
+Automation would rely on this structure because it facilitates consistency and if followed properly limits number of merge errors. 
+
 Zachary
 Jacob
