@@ -10,3 +10,12 @@ Bryan
     why automation would rely on this structure
         Automation releys on clear structure and system states to run properally. Automation needs systems like these
         in place to create a more streamlined pipeline. 
+----------------------------------------------------
+Week 3 in class activity - Owen Pimentel
+
+1. branches reduce collaboration risk by isolating unstable code from being pushed to production. untested code can be kept in a dev branch until it is unit tested, where it can then be pushed to another branch to be peer reviewed and then merged into the main branch.
+
+2.  integration changes responsibly from an individual  to the whole team. Everyone is responsible for ensuring that code is tested and consistent with standards before being pushed to production
+
+3. automation relies on order and patterns to function. If there is no workflow or procedure for it to follow, it wont be able to produce results. 
+-----------------------------------------------------
