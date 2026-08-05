@@ -1,3 +1,7 @@
 Cory
 Zachary
+- Branching reduces collaboration risk by keeping faulty or in-development code in a separate branch.
+- Integration changes responsibility, as the person who performs the integration is at fault if something happens due to the integration occurring prematurely.
+- Automation relies on this structure as it organizes the development process into a series of steps with clear responsibility for each step.
+
 Jacob
