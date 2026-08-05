@@ -1,3 +1,7 @@
 Justyn
 Cooper
 Jose Vargas
+
+Jose Vargas Figueroa
+
+Branching reduces collaboration risk because it allows the developer to work on their own branch without affecting the main branch. Integration changes responsibility by making the developers responsible for the changes they commit. This includes testing and validating their code. Automation would rely on this structure because it runs builds or tests only on approved changes, prevent automation from acting on unfinished work, and trace outcomes back to intention decisions. Without branching, automation increases risk rather than reducing it
