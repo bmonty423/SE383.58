@@ -1,3 +1,7 @@
 Justyn
 Cooper
 Jose Vargas
+
+Justyn C - Branching reduces collaboration risk because if everyone just merges to the main then things that one person remove, or one person added, could mess things up and cause overlap.
+You will not get in anyones way, and everyone can safely test their own code. Automation would rely on this because it will let many different repos work in parallel without causing any issues with the main branch repo. Everyone can merge together at one point once things are looking good. Automation will be greatly
+helped by using multiple branches rather than all just working together on one main branch at the same time.
