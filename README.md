@@ -69,3 +69,8 @@ Robert Blye - Version control acted as a system of record by allowing each user 
 | why branching reduced collaboration risk | how integration changed responsibility | why automation would rely on this structure |
 | --- | --- | --- |
 | Individual branches allow for changes to remain compartmentalized, which can help to determine the order and method of pull request merging | The responsibility is now spread between the creator of the branch and the reviewer | Automation could work based on a set order of changes and allow those changes to be merged in a way that mitigates risk of merge conflicts |
+
+-----
+Jose Vargas Figueroa
+
+Branching reduces collaboration risk because it allows the developer to work on their own branch without affecting the main branch. Integration changes responsibility by making the developers responsible for the changes they commit. This includes testing and validating their code. Automation would rely on this structure because it runs builds or tests only on approved changes, prevent automation from acting on unfinished work, and trace outcomes back to intention decisions. Without branching, automation increases risk rather than reducing it
