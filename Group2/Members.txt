@@ -1,3 +1,13 @@
 Bryan
-Brandon
+#Brandon
+    why branching reduced collaboration risk
+        Branchs allow users to work indepently and chose what to share and merge. This allows multiplie workflows
+        and experimental workflows to occuer at the same time without effecting the main code. It allows changes
+        to be intergrated when ready. 
+    how integration changed responsibility
+        Indivual work becomes group responsibility. Changes are now visable to other users as well and they can see all 
+        updates to the code. And this allows users to trace errors or outcomes back to their source if issues arise. 
+    why automation would rely on this structure
+        Automation releys on clear structure and system states to run properally. Automation needs systems like these
+        in place to create a more streamlined pipeline. 
 Owen
