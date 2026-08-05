@@ -1,3 +1,4 @@
 Bryan
+    Branching reduces collaboration risk because if there is an error on one branch it will not affect any of the other teams' code causing errors on their end. The error will be isolated to one side while other projects will have their own errors if there. Integration changes responsibility by giving all members involved equally responsible. Any changes will show up and possibly conflict with the other parts involved in the integration possibly causing different errors or solutions. Automation relies on structure because otherwise the risk will increase and not run on approved changes. Automation can also trace possible outcomes back to decisions made.
 Brandon
 Owen
