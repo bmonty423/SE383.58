@@ -1,3 +1,15 @@
 Javier
 Robert
 Andrew
+
+
+Andrew - 
+ - why branching reduced collaboration risk
+It allows people to work on separate features at the same time without running the risk of breaking the main project when they want to save their changes. it lets you control when you want to push your new feature to the main project
+
+ - how integration changed responsibility
+it changes responsibility from one person to the whole group. when you integrate your code, it becomes visible to others, and lets them collaborate on it
+
+
+ -why automation would rely on this structure
+It allows automation to run tests on isolated pieces of code without disturbing the main branch
