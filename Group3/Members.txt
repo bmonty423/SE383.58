@@ -2,6 +2,14 @@ Justyn
 Cooper
 Jose Vargas
 
+Cooper Graves
+1) why branching reduced collaboration risk
+    Individual branches allow for changes to remain compartmentalized, which can help to determine the order and method of pull request merging
+2) how integration changed responsibility
+    The responsibility is now spread between the creator of the branch and the reviewer
+3) why automation would rely on this structure
+    Automation could work based on a set order of changes and allow those changes to be merged in a way that mitigates risk of merge conflicts
+
 Justyn C - Branching reduces collaboration risk because if everyone just merges to the main then things that one person remove, or one person added, could mess things up and cause overlap.
 You will not get in anyones way, and everyone can safely test their own code. Automation would rely on this because it will let many different repos work in parallel without causing any issues with the main branch repo. Everyone can merge together at one point once things are looking good. Automation will be greatly
 helped by using multiple branches rather than all just working together on one main branch at the same time.
