@@ -10,3 +10,6 @@ Automation would rely on this structure because it facilitates consistency and i
 
 Zachary
 Jacob
+	-Branching reduces collaberative risk because all changes are historically timestamped and visable across all team members, ultimately leading to reduced risk of overlapping or inoperable changes
+	-Integrationn changed responsibility by forcing Operations and developers to inherit responsiblilty by design, this allows integration to be a collaberative step in delivering reliable software
+	- Automation relies on this structure because development tasks should be replicatable throughout the software development lifecycle. Automation allows anomalies to be detected at mass scale and provides insights to development teams on broken internal systems aswell!
